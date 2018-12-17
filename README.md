@@ -1,2 +1,2 @@
 # HelloWorld
-Try to learn how to use GitHub, also say "hello" to everyone.
+I'm xuecl and now I'm learging how to use GitHub to create a branch of project;
